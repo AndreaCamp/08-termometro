@@ -1,0 +1,48 @@
+*{
+    background-color: pink;
+    font-size: 25px;
+}
+
+.cero{
+    color:blue;
+}
+
+.cinco{
+    color: rgb(16, 162, 219);
+}
+
+.diez{
+    color: rgb(95, 201, 236);
+}
+
+.quince{
+    color: rgb(179, 226, 241);
+}
+
+.veinte{
+    color: rgb(210, 237, 247);
+}
+
+.veinticinco{
+    color: white;
+}
+
+.treinta{
+    color: rgb(250, 248, 118);
+}
+
+.treinta-y-cinco{
+    color: yellow;
+}
+
+.cuarenta{
+    color: orange;
+}
+
+.cuarenta-y-cinco{
+    color:rgb(255, 60, 0)
+}
+
+.cincuenta{
+    color: red;
+}
